@@ -2,5 +2,5 @@
 
 ## Nivel Fácil
 
-### 1 - FizzBuzz [a link](https://github.com/user/repo/blob/branch/other_file.md)
+### 1 - FizzBuzz [Mi Solución](https://github.com/user/repo/blob/branch/other_file.md](https://github.com/MurcianoTech/practice-programming-excercises/blob/main/easy-level/fizzbuzz.php)
 
